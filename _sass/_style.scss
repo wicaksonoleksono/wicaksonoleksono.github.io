@@ -132,31 +132,3 @@ hr {
 @import "typography";
 @import "tables";
 
-/*
- * Light Mode override
- */
-
-@media (prefers-color-scheme: light) {
-    body {
-        background-color: #ffffff;
-        color: #333333;
-    }
-    #author-name {
-        color: #272727;
-    }
-    hr {
-        border-top: 1px solid rgba(0, 0, 0, 0.1);
-        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-    }
-    blockquote {
-        color: #555555;
-        border-left-color: #333333;
-    }
-    table th {
-        background-color: #f5f5f5;
-        color: #333333;
-    }
-    table tr:nth-child(even) {
-        background-color: #fafafa;
-    }
-}

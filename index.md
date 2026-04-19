@@ -6,21 +6,26 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-Hi! I'm Wicaksono, an AI / Machine Learning Engineer & Researcher based in Indonesia.
-
-M.A. in Artificial Intelligence from Universitas Gadjah Mada (2024 – 2025). BASc. in Computational and Applied Mathematics from Institut Teknologi Sepuluh Nopember (2018 – 2022).
-
-My research focuses on **NLP**, **neurolinguistics**, **multilingualism**, **LLM reasoning**, and **mental health AI screening**.
+Hi! I'm Wicaksono — AI/ML researcher at Universitas Gadjah Mada. M.A. Artificial Intelligence (2024–2025), BASc. Computational and Applied Mathematics from ITS (2018–2022).
 
 ## Research Interests
 
+**Language & Cognition**
 - Neurolinguistics & Multilingualism
-- NLP for Education & Psychology
-- Natural Language Processing & Large Language Models
+- Language Acquisition & Psycholinguistics
+
+**NLP Applications**
+- NLP for Education (readability, vocabulary difficulty, learner modeling)
+- NLP for Psychology & Mental Health (affect detection, screening)
 - Hate Speech Detection & Implicit Statement Modeling
-- Logical / Syllogistic Reasoning in Multilingual Settings
-- Mental Health Screening with Multimodal AI
-- On-edge Model Optimization
+
+**Reasoning & Multilinguality**
+- Logical / Syllogistic Reasoning in LLMs
+- Cross-lingual Transfer & Low-resource NLP
+
+**Systems**
+- Multimodal AI (text, vision, audio)
+- On-edge Model Optimization & Knowledge Distillation
 
 ## Selected Publications
 
