@@ -8,12 +8,14 @@ layout: default
 
 Hi! I'm Wicaksono, an AI / Machine Learning Engineer & Researcher based in Indonesia.
 
-Currently pursuing a Master of Artificial Intelligence at Universitas Gadjah Mada (Feb 2024 – Oct 2025). B.Sc. in Computational and Applied Mathematics from Institut Teknologi Sepuluh Nopember (2018 – 2022).
+M.A. in Artificial Intelligence from Universitas Gadjah Mada (2024 – 2025). B.Sc. in Computational and Applied Mathematics from Institut Teknologi Sepuluh Nopember (2018 – 2022).
 
-My research focuses on **NLP**, **hate speech detection**, **LLM reasoning**, and **mental health AI screening**.
+My research focuses on **NLP**, **neurolinguistics**, **multilingualism**, **LLM reasoning**, and **mental health AI screening**.
 
 ## Research Interests
 
+- Neurolinguistics & Multilingualism
+- NLP for Education & Psychology
 - Natural Language Processing & Large Language Models
 - Hate Speech Detection & Implicit Statement Modeling
 - Logical / Syllogistic Reasoning in Multilingual Settings
@@ -34,9 +36,11 @@ My research focuses on **NLP**, **hate speech detection**, **LLM reasoning**, an
 
 ## Experience
 
+**Research Assistant, ML Systems** — Universitas Gadjah Mada (Feb 2026 – Present)
+
 **Research Assistant, Software Engineering Lab** — Universitas Gadjah Mada (Mar 2025 – Oct 2025)
 
-**Researcher, NLP** — Mantera Studio Research Lab, Jakarta (Feb 2022 – Present)
+**Researcher** — Mantera Studio Research Lab, Jakarta (Feb 2022 – Present)
 
 **Web Developer** — Mastej Studio, Malang (2019 – 2022)
 
