@@ -4,6 +4,8 @@ layout: default
 
 ## About Me
 
+<img class="profile-picture" src="face.jpg">
+
 Hi! I'm Wicaksono, an AI / Machine Learning Engineer & Researcher based in Indonesia.
 
 Currently pursuing a Master of Artificial Intelligence at Universitas Gadjah Mada (Feb 2024 – Oct 2025). B.Sc. in Computational and Applied Mathematics from Institut Teknologi Sepuluh Nopember (2018 – 2022).
