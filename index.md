@@ -4,42 +4,53 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+Hi! I'm Wicaksono, an AI / Machine Learning Engineer & Researcher based in Indonesia.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Currently pursuing a Master of Artificial Intelligence at Universitas Gadjah Mada (Feb 2024 – Oct 2025). B.Sc. in Computational and Applied Mathematics from Institut Teknologi Sepuluh Nopember (2018 – 2022).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+My research focuses on **NLP**, **hate speech detection**, **LLM reasoning**, and **mental health AI screening**.
 
-## Research Interest
+## Research Interests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+- Natural Language Processing & Large Language Models
+- Hate Speech Detection & Implicit Statement Modeling
+- Logical / Syllogistic Reasoning in Multilingual Settings
+- Mental Health Screening with Multimodal AI
+- On-edge Model Optimization
 
-## Publications
+## Selected Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. **Aligning Implied Statements for Implicit Hate Speech Generalizability** — Under Peer Review: ACL Rolling Review ([OpenReview](https://openreview.net/pdf?id=pgwGGyy77k)). Improved out-of-domain F1 by 4–8% across 3 benchmarks via triplet training with context-bounded semi-hard negatives.
 
-## Typography
+2. **ITLC at SemEval-2026 Task 11: Normalization and Deterministic Parsing for Formal Reasoning in LLMs** — BEA 2026 / SemEval-2026 ([arXiv:2603.02676](https://arxiv.org/abs/2603.02676)). Top-5 across all subtasks; 93% accuracy via deterministic parsing without fine-tuning.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+3. **LLM-Based Conversational PHQ-Aligned Screening (CPAS)** — Under Review: IEEE Access; ACM TiiS. PHQ-aligned dialogue + facial affect; 0.6–0.8 Spearman ρ on 151 samples.
 
-Here is a table
+4. **On-Edge Device Optimization for Audio Classification** — Published: IEEE Xplore. MFCC classifier on Arduino Nano 33 BLE; 95.2% accuracy, 3.00 ms latency, 3.80 KB memory.
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+5. **Knowledge Distillation for GCN-Based Neural Networks** — Bachelor Thesis (2022). 50% compression on ASTGCN; improved student model from 30% to 60% accuracy.
 
-Here is a horizontal rule
+## Experience
 
----
+**Research Assistant, Software Engineering Lab** — Universitas Gadjah Mada (Mar 2025 – Oct 2025)
 
-Here is a blockquote
+**Researcher, NLP** — Mantera Studio Research Lab, Jakarta (Feb 2022 – Present)
 
-> To a great mind, nothing is little
+**Web Developer** — Mastej Studio, Malang (2019 – 2022)
 
-## References
+## Projects
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+- [Mental Health Screening Platform](https://mentalhealth.laptopmerahputih.id) — LLM + PHQ-9 + facial affect; 40+ concurrent sessions
+- [IndoClimate Chatbot](https://chat.indoclimate.id) — RAG over Indonesian climate legislation (UGM × Deakin)
+- [TASYA Academic Chatbot](https://tasya.dtmiugm.ac.id) — WhatsApp RAG for UGM academic support
+- **Security Operations Centre Dashboard** — Domain-driven frontend refactor; 70% code reduction
+
+## Skills
+
+**Languages:** Python, TypeScript/JavaScript, Go, Java, C/C++, Rust, SQL
+
+**ML/AI:** PyTorch, TensorFlow, HuggingFace Transformers, LangChain, scikit-learn
+
+**Web:** React, Next.js, Flask, Node.js
+
+**Tools:** Docker, GCP, Git, Linux, LaTeX

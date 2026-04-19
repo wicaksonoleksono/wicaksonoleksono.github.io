@@ -3,24 +3,13 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [wlap.atacama@gmail.com](mailto:wlap.atacama@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+62 878 8761 7782](tel:+6287887617782)
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [GitHub](https://github.com/wicaksonoleksono)
+2. [LinkedIn](https://linkedin.com/in/wicaksonolxn)
