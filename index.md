@@ -8,7 +8,7 @@ layout: default
 
 Hi! I'm Wicaksono, an AI / Machine Learning Engineer & Researcher based in Indonesia.
 
-M.A. in Artificial Intelligence from Universitas Gadjah Mada (2024 – 2025). B.Sc. in Computational and Applied Mathematics from Institut Teknologi Sepuluh Nopember (2018 – 2022).
+M.A. in Artificial Intelligence from Universitas Gadjah Mada (2024 – 2025). BASc. in Computational and Applied Mathematics from Institut Teknologi Sepuluh Nopember (2018 – 2022).
 
 My research focuses on **NLP**, **neurolinguistics**, **multilingualism**, **LLM reasoning**, and **mental health AI screening**.
 
