@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-Hi! I'm Wicaksono Leksono Muhamad, an AI / Machine Learning Engineer and researcher working across agentic AI workflows, retrieval-augmented generation systems, production LLM deployments, and multilingual NLP. My work spans healthcare, education, climate policy, software engineering, and language technology, with first-author publications at ACL venues and applied systems deployed for real users.
+Hi! I'm Wicaksono Leksono Muhamad, an AI/ML Engineer, NLP Researcher, and Data Scientist. I build LLM systems end to end: agentic workflows, RAG pipelines, and models squeezed onto edge hardware. Most of it came out of cross-university work, deployed for real users in healthcare, education, and climate policy, with first-author publications at ACL venues.
 
 ## Summary
 
-AI/ML engineer and researcher with 7 years of experience building customer-facing AI solutions across agentic workflows, RAG systems, production LLM deployments, and mechanistic interpretability research on language models. Experienced with LangGraph, LangChain, LangSmith, Model Context Protocol, vector databases, and cross-functional research collaborations.
+AI/ML engineer and researcher. Three years writing production software, plus four spent building and shipping AI systems and data science software that real people use. First-author on three ACL-venue NLP papers (SemEval-2026, BEA 2026). I build LLM systems end to end: agentic workflows, RAG pipelines, models squeezed onto edge hardware. Most of it came out of cross-university work, deployed for users in healthcare, education, and climate policy.
 
 ## Education
 
@@ -24,58 +24,59 @@ B.A.Sc. Computational and Applied Mathematics, Aug 2018 - Nov 2022
 
 ## Selected Publications
 
-1. **Aligning Implied Statements for Implicit Hate Speech Generalizability** - First Author, under peer review at ACL Rolling Review ([OpenReview](https://openreview.net/pdf?id=pgwGGyy77k)). Trained triplet contrastive learning with context-bounded semi-hard negatives and improved out-of-domain F1 by 4-8% across three hate speech benchmarks.
+1. **ITLC at SemEval-2026 Task 11: Normalization and Deterministic Parsing for Formal Reasoning in LLMs** - First Author (Mantera Studio), SemEval-2026 (ACL) ([arXiv:2603.02676](https://arxiv.org/abs/2603.02676)). Top-5 across all subtasks via deterministic parsing and structural abstraction of syllogisms into canonical logical forms, outperforming fine-tuning and activation-level baselines.
 
-2. **Improving Lexical Difficulty Prediction with Context-Aligned Contrastive Learning** - First Author, ACL-BEA 2026 Shared Task ([arXiv:2605.08950](https://arxiv.org/abs/2605.08950)). Proposed Context-Aligned Contrastive Regression with transformer ensembles, Cross-View Context, and Ordinal Soft Contrastive Learning; achieved top-15 across all L1 groups.
+2. **Improving Lexical Difficulty Prediction with Context-Aligned Contrastive Learning and Ridge Ensembling** - First Author (Mantera Studio), BEA 2026 Shared Task (ACL) ([arXiv:2605.08950](https://arxiv.org/abs/2605.08950)). Ridge ensemble over XLM-RoBERTa and mDeBERTa with ordinal soft contrastive learning; top-15 across all L1 groups (14th Spanish, 11th German, 7th Mandarin).
 
-3. **Normalization and Deterministic Parsing for Formal Reasoning in LLMs** - First Author, ACL-SemEval-2026 ([arXiv:2603.02676](https://arxiv.org/abs/2603.02676)). Introduced structural abstraction and deterministic parsing for multilingual syllogistic reasoning; ranked top-5 across all subtasks.
+3. **Aligning Implied Statements for Implicit Hate Speech Generalizability** - First Author, under review (ACL ARR) ([OpenReview](https://openreview.net/pdf?id=pgwGGyy77k)). Triplet contrastive learning with context-bounded semi-hard negatives; +4-8% out-of-domain F1 across three benchmarks.
 
-4. **Automated Detection of Quality Issues in User Stories** - Co-author, ICODSE 2025. Extended automated quality analysis with LLM-assisted pragmatic and semantic checks for software requirements.
+4. **On-Edge Device Optimization Using Multiple Classification Method for a Cat and Dog Audio Classifier** - First Author, IEEE ([IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10933173/)). 95.2% accuracy, 3 ms latency, 3.8 KB memory on Arduino Nano 33 BLE.
 
-5. **On-Edge Device Optimization for Audio Classification** - First Author, IEEE Xplore. Deployed an MFCC-based deep learning classifier on Arduino Nano 33 BLE with 95.2% accuracy, 3.00 ms inference latency, and 3.80 KB memory footprint.
+5. **Enhancing Automated User Story Quality Assessment with Large Language Models** - Co-author, ICODSE 2025 ([IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11351886)). Extended automated QUS analysis with LLM-assisted pragmatic and semantic checks.
 
 ## Experience
 
+**Researcher and Lead Software Engineer** - Mantera Studio Research Lab (PT. BSM), Jakarta (Feb 2022 - Present)
+
+- Published first-author at SemEval-2026 Task 11, finishing top-5 across all subtasks on multilingual formal reasoning via deterministic parsing and structural abstraction of syllogisms into canonical logical forms.
+- Published first-author at BEA 2026 Shared Task, ranking top-15 across all L1 groups (14th Spanish, 11th German, 7th Mandarin) with a Ridge ensemble over XLM-RoBERTa and mDeBERTa using ordinal soft contrastive learning.
+- Lead engineering across the lab's production AI portfolio, directing system architecture and shipping customer-facing LLM applications in collaboration with Queen's University Belfast, UGM, and Deakin University.
+
 **Research Assistant, Machine Learning Systems** - Universitas Gadjah Mada, Yogyakarta (Feb 2026 - Present)
 
-- Proposed early-exit training and inference methods for energy-efficient, low-latency model deployment on resource-constrained hardware.
+- Develop early-exit training and inference methods for energy-efficient, low-latency model deployment on resource-constrained edge hardware (NVIDIA Jetson Orin) across 7W-25W power budgets.
 
 **Research Assistant, Software Engineering Lab** - Universitas Gadjah Mada, Yogyakarta (Mar 2025 - Oct 2025)
 
-- Built LLM-based NLP tooling for requirements engineering, adding pragmatic and semantic testing for user story quality specifications.
-- Led the machine learning workstream for a national grant, building PHQ-aligned LLM screening with deep learning facial affect analysis, evaluated on 302 samples.
-
-**Researcher, Natural Language Processing** - Mantera Studio Research Lab, Jakarta (Feb 2022 - Present)
-
-- Published a first-author paper at SemEval-2026 Task 11 and achieved top-5 of 1200+ submissions on multilingual syllogistic reasoning with 93% accuracy.
-- Co-authored a BEA 2026 Shared Task submission on multilingual lexical complexity prediction using transformer ensembles, contrastive learning, and regression objectives across Spanish, German, and Mandarin Chinese.
+- Led the ML workstream for a national grant: delivered PHQ-aligned LLM screening with deep-learning facial affect analysis, evaluated on 302 samples, and presented results to university stakeholders and grant reviewers.
+- Built LLM-based NLP tooling for requirements engineering, adding pragmatic and semantic quality checks for user-story specifications that extended prior automated QUS analysis.
 
 **Web Developer** - Mastej Studio, Malang (2019 - 2022)
 
-- Built a React/Vite tourism platform with 400+ daily active users and 100 leads per day.
-- Delivered an apartment marketing site with a 360-degree virtual tour, generating 10 daily inquiries from outside the Malang region.
+- Built and shipped [What's On Malang](https://whatsonmalang.com), a React/Vite tourism platform (400+ DAU, 100 leads/day), and the [Begawan apartment](https://www.begawan-apartment.com/) marketing site with 360-degree virtual tours (10 daily inquiries).
+- Co-developed [Janur](https://janur.wedding/), a digital wedding-invitation site with built-in attendance tracking; built 7 custom invitations.
+- Helped run [Pasar Santai](https://pasarsantai.themastej.com/), an annual local market event in Malang, as logistics officer and web developer.
 
 ## Projects
 
-- [Dyslexic Reader](https://dyslexic.app) - Dart, Next.js, Docker, Kubernetes, LLM. Built an LLM-powered dyslexia support application in collaboration with Queen's University Belfast x UGM, including dyslexia lens rendering, summarization, text professionalization, definitions, and AHRQ-aligned screening.
-- [Mental Health Screening Platform](https://mentalhealth.laptopmerahputih.id) - Flask, LangGraph, LangChain, PyTorch. Shipped LLM-driven PHQ + CPAS screening workflows with agentic orchestration, facial affect capture, stable 40+ concurrent sessions, and LangSmith telemetry.
-- [IndoClimate Chatbot](https://chat.indoclimate.id) - React, LangGraph, LangChain, RAG, OpenAI API. Built a WhatsApp webhook and REST API over Indonesian climate legislation for UGM x Deakin University, with document summarization and ChromaDB retrieval.
-- [TASYA Academic Chatbot](https://tasya.dtmi.ugm.ac.id) - Flask, LangGraph, LangChain, ChromaDB, OpenAI. Built a WhatsApp webhook and academic support RAG chatbot over roughly 2,000 pages across 7 institutional documents.
-- **SOC Dashboard** - Vite.js, Redux Toolkit, Go, LangSmith, LangGraph. Refactored the frontend into a domain-driven design, reduced redundant code by 70%, and integrated telemetry ingestion, tracing, audit logging, and LLM-based log summarization.
-- [Sijinak Attendance System](https://github.com/airlanggawicaksono/sijinak_win) - gRPC, FFI, Dart, Python. Built an RFID-based attendance system integrating Hikvision hardware through a native C SDK and exposing a microservice layer over gRPC.
+- [Dyslexic Reader](https://dyslexic.app) (Mantera Studio x UGM x Queen's University Belfast) - Dart, Next.js, Kubernetes, Python, gRPC, webhook. LLM-powered dyslexia support app deployed on Kubernetes with Dart mobile and Next.js web frontends; real-time font-rendering dyslexia lens, LLM summarization and text-professionalization, and an AHRQ-aligned screening protocol.
+- [Mental Health Screening Platform](https://mentalhealth.laptopmerahputih.id) (Mantera Studio) - Flask, LangGraph, LangChain, PyTorch, webhook, LiteRT. LLM-driven PHQ + CPAS screening workflows with LangGraph agentic orchestration serving 40+ concurrent sessions; deep-learning facial affect capture, with p95 latency and serving cost cut 90% via local response batching and request queuing, monitored with LangSmith.
+- RAG Chatbots: [TASYA](https://tasya.dtmiugm.id/) & [IndoClimate](https://chat.indoclimate.id) (Mantera Studio x UGM, Deakin) - Flask, React, ChromaDB, LangGraph. WhatsApp webhook and REST RAG services over institutional docs and Indonesian climate legislation; ~2,000 pages across 7 documents indexed into ChromaDB, multi-step retrieval and generation via LangGraph, traced with LangSmith.
+- **SOC Dashboard** (Mantera Studio, under NDA) - Vite, Redux Toolkit, Go, LangGraph, LangSmith. Refactored frontend to domain-driven design, cutting redundant code 70%; integrated server telemetry ingestion, distributed tracing, audit logging, and LLM-based log summarization.
+- [Sijinak Attendance System](https://github.com/airlanggawicaksono/sijinak_win) (Mantera Studio) - gRPC, FFI, Dart, Python, C. RFID-based attendance system integrating Hikvision hardware via FFI to a native C SDK; microservice layer over gRPC with a Dart frontend.
 
 ## Skills
 
 **Programming Languages:** Python, TypeScript/JavaScript, Go, Dart, Java, C/C++, Rust, SQL (PostgreSQL)
 
-**Machine Learning & AI:** PyTorch, TensorFlow, HuggingFace Transformers, scikit-learn, deep learning, NLP, LLMs, fine-tuning, model evaluation, embeddings, contrastive learning, mechanistic interpretability, model optimization
+**ML & NLP:** PyTorch, TensorFlow, HuggingFace Transformers, scikit-learn, fine-tuning, contrastive learning, knowledge distillation, model optimization, embeddings, multilingual NLP, mechanistic interpretability
 
-**LLM & Agentic AI:** LangGraph, LangChain, LangSmith, Model Context Protocol (MCP), retrieval-augmented generation (RAG), prompt engineering, OpenAI API, ChromaDB, agentic workflows, multilingual NLP
+**LLM & Agentic AI:** LangGraph, LangChain, LangSmith, Model Context Protocol (MCP), retrieval-augmented generation (RAG), prompt engineering, OpenAI API, ChromaDB, agentic workflows
 
-**Web & Backend:** React, Next.js, Flask, Node.js, Vite.js, REST API, gRPC, API gateways, microservices
+**Web & Backend:** React, Next.js, Flask, Node.js, Vite, REST API, gRPC, microservices, API gateways
 
 **Infrastructure & Observability:** Docker, Kubernetes, Git, Linux, nginx, Google Cloud Platform, CI/CD, distributed tracing, logging, audit logging, LaTeX
 
 **Data Science:** Pandas, NumPy, Matplotlib, data analysis, data visualization, experiment tracking
 
-**Languages:** Bahasa Indonesia (Native), English (Professional - TOEFL ITP 587), German (B1), Javanese (Conversational)
+**Languages:** Indonesian (Native), English (Professional - TOEFL ITP 587), German (B1), Javanese (Conversational)
