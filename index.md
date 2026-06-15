@@ -6,11 +6,11 @@ layout: default
 
 <img class="profile-picture" src="face.jpg">
 
-Hi! I'm Wicaksono Leksono Muhamad, an AI/ML Engineer, NLP Researcher, and Data Scientist. I build LLM systems end to end: agentic workflows, RAG pipelines, and models squeezed onto edge hardware. Most of it came out of cross-university work, deployed for real users in healthcare, education, and climate policy, with first-author publications at ACL venues.
+Hi! I'm Wicaksono Leksono Muhamad, an AI Software Engineer focused on LLM systems, NLP, and ML deployment. I build production AI applications with LangGraph, RAG, PyTorch, Docker, and Kubernetes, with deployed systems in education, healthcare, and climate policy, and first-author papers at ACL-affiliated shared tasks.
 
 ## Summary
 
-AI/ML engineer and researcher. Three years writing production software, plus four spent building and shipping AI systems and data science software that real people use. First-author on three ACL-venue NLP papers (SemEval-2026, BEA 2026). I build LLM systems end to end: agentic workflows, RAG pipelines, models squeezed onto edge hardware. Most of it came out of cross-university work, deployed for users in healthcare, education, and climate policy.
+AI Software Engineer focused on LLM systems, NLP, and ML deployment. Built production AI applications using LangGraph, RAG, PyTorch, Docker, and Kubernetes. First-author on two ACL-affiliated shared-task papers, with deployed systems in education, healthcare, and climate-policy use cases.
 
 ## Education
 
@@ -28,7 +28,7 @@ B.A.Sc. Computational and Applied Mathematics, Aug 2018 - Nov 2022
 
 2. **Improving Lexical Difficulty Prediction with Context-Aligned Contrastive Learning and Ridge Ensembling** - First Author (Mantera Studio), BEA 2026 Shared Task (ACL) ([arXiv:2605.08950](https://arxiv.org/abs/2605.08950)). Ridge ensemble over XLM-RoBERTa and mDeBERTa with ordinal soft contrastive learning; top-15 across all L1 groups (14th Spanish, 11th German, 7th Mandarin).
 
-3. **Aligning Implied Statements for Implicit Hate Speech Generalizability** - First Author, under review (ACL ARR) ([OpenReview](https://openreview.net/pdf?id=pgwGGyy77k)). Triplet contrastive learning with context-bounded semi-hard negatives; +4-8% out-of-domain F1 across three benchmarks.
+3. **Aligning Implied Statements for Implicit Hate Speech Generalizability** - First Author, under review ([OpenReview](https://openreview.net/pdf?id=pgwGGyy77k)). Triplet contrastive learning with context-bounded semi-hard negatives; +4-8% out-of-domain F1 across three benchmarks.
 
 4. **On-Edge Device Optimization Using Multiple Classification Method for a Cat and Dog Audio Classifier** - First Author, IEEE ([IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10933173/)). 95.2% accuracy, 3 ms latency, 3.8 KB memory on Arduino Nano 33 BLE.
 
@@ -67,16 +67,12 @@ B.A.Sc. Computational and Applied Mathematics, Aug 2018 - Nov 2022
 
 ## Skills
 
-**Programming Languages:** Python, TypeScript/JavaScript, Go, Dart, Java, C/C++, Rust, SQL (PostgreSQL)
+**Languages:** Python, TypeScript/JavaScript, Go, SQL, Dart
 
-**ML & NLP:** PyTorch, TensorFlow, HuggingFace Transformers, scikit-learn, fine-tuning, contrastive learning, knowledge distillation, model optimization, embeddings, multilingual NLP, mechanistic interpretability
+**ML & NLP:** PyTorch, HuggingFace Transformers, scikit-learn, fine-tuning, contrastive learning, knowledge distillation, model optimization, embeddings, mechanistic interpretability
 
-**LLM & Agentic AI:** LangGraph, LangChain, LangSmith, Model Context Protocol (MCP), retrieval-augmented generation (RAG), prompt engineering, OpenAI API, ChromaDB, agentic workflows
+**LLM Systems:** LangGraph, LangChain, LangSmith, RAG, OpenAI API, ChromaDB, MCP, prompt engineering
 
-**Web & Backend:** React, Next.js, Flask, Node.js, Vite, REST API, gRPC, microservices, API gateways
+**Backend & Infra:** Flask, Next.js, REST API, gRPC, Docker, Kubernetes, nginx, Linux, CI/CD, GCP, AWS
 
-**Infrastructure & Observability:** Docker, Kubernetes, Git, Linux, nginx, Google Cloud Platform, CI/CD, distributed tracing, logging, audit logging, LaTeX
-
-**Data Science:** Pandas, NumPy, Matplotlib, data analysis, data visualization, experiment tracking
-
-**Languages:** Indonesian (Native), English (Professional - TOEFL ITP 587), German (B1), Javanese (Conversational)
+**Spoken Languages:** Indonesian (Native), English (Professional - TOEFL ITP 587), German (B1), Javanese (Conversational)
